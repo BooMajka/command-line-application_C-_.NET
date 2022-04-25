@@ -6,3 +6,7 @@ Microsoft’s .NET framework imports libraries that allow to read and write to t
 ## Technologies"
 - C#
 - .NET
+- System.Drawing.Common - .NET package that provides access to graphics functionality through the GDI+ API.
+- Random User Generator API - open-source API for generating random user data.
+- Newtonsoft.Json package allowes an access the Json.NET framework, which parse the JSON data from the Random User Generator API.
+- mono-libgdipplus package (macOS users) to add an assembly needed to parse the JSON data from the Random User Generator API.
